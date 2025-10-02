@@ -1,3 +1,15 @@
+// ============================================================
+//  Secure File Packer with Caesar Cipher Encryption
+// ------------------------------------------------------------
+// File Name   : GUIPacker.java
+// Description : GUI tool to pack multiple files from a directory
+//               into a single archive with Caesar Cipher encryption.
+// Author      : Nikita Omase
+// Date        : August 8, 2025
+// Encryption  : Caesar Cipher (key = 3)
+// ============================================================
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
