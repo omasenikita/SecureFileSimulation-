@@ -39,4 +39,4 @@ Additionally, the project includes a Graphical User Interface (GUI) for ease of 
 
 #### Packing Files
 ```bash
-java MarvellousFilePacker <DirectoryName> <OutputArchiveFile>
+java GUIPacker <DirectoryName> <OutputArchiveFile>
