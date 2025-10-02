@@ -1,3 +1,14 @@
+
+// ============================================================
+//  Secure File Unpacker with Caesar Cipher Decryption
+// ------------------------------------------------------------
+// File Name   : GUIUnpacker.java
+// Description : GUI tool to unpack encrypted archive files and
+//               restore original content using Caesar Cipher decryption.
+// Author      : Nikita Omase
+// Date        : August 8, 2025
+// Encryption  : Caesar Cipher (key = 3)
+// ============================================================
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
